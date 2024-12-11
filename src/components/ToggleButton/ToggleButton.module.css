@@ -8,6 +8,7 @@
   outline-offset: 2px;
   border-radius: 1px;
   cursor: pointer;
+  padding: 4px;
 
   /*
     HACK: Margin on an outer bound like this is
@@ -32,4 +33,5 @@
   background: hsl(0deg, 0%, 5%);
   color: white;
   border-width: 6px;
+  padding: 0;
 }
